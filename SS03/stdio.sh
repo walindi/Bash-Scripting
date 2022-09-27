@@ -11,3 +11,10 @@ echo $0
 
 # Number of arguments
 echo $#
+
+echo "=====Read var====="
+echo "Enter your first name"
+read fname
+echo "Enter your last name"
+read lname
+echo "Hello $fname $lname"
