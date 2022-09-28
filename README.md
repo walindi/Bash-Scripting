@@ -13,3 +13,9 @@ SS03;
 	-std input
 	-std output and err
 	-communication between scripts
+
+SS04:
+	-declare statements
+	-arrays
+	-functions
+	-files and directories
