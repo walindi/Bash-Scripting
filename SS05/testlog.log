@@ -1,0 +1,10 @@
+Sep 29 13:07:22 walindi-hp NetworkManager[842]: <info>  [1664446042.7054] manager: NetworkManager state is now CONNECTED_GLOBAL
+Sep 29 13:07:32 walindi-hp systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Sep 29 13:07:33 walindi-hp wpa_supplicant[874]: wlo1: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-54 noise=9999 txrate=72200
+Sep 29 13:09:08 walindi-hp wpa_supplicant[874]: wlo1: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-76 noise=9999 txrate=65000
+Sep 29 13:09:51 walindi-hp wpa_supplicant[874]: wlo1: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-63 noise=9999 txrate=65000
+Sep 29 13:10:11 walindi-hp wpa_supplicant[874]: wlo1: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-70 noise=9999 txrate=43300
+Sep 29 13:10:43 walindi-hp snapd[867]: storehelpers.go:748: cannot refresh: snap has no updates available: "bare", "chromium", "core", "core18", "core20", "firefox", "gnome-3-34-1804", "gnome-3-38-2004", "gtk-common-themes", "hunspell-dictionaries-1-7-2004", "notepadqq", "slack", "snap-store", "snapd", "snapd-desktop-integration", "vlc"
+Sep 29 13:10:43 walindi-hp snapd[867]: autorefresh.go:540: auto-refresh: all snaps are up-to-date
+Sep 29 13:13:39 walindi-hp wpa_supplicant[874]: wlo1: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-61 noise=9999 txrate=43300
+Sep 29 13:15:24 walindi-hp NetworkManager[842]: <info>  [1664446524.7135] dhcp4 (wlo1): state changed new lease, address=192.168.199.52
