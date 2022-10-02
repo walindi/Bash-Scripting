@@ -2,10 +2,10 @@
 
 str="Hello World"
 
-#Length of string
+# Length of string
 echo ${#str}
 
-#concatenating strings
+# Concatenating strings
 read str1
 read str2
 newstr="$str1 $str2"
