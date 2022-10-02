@@ -1,8 +1,9 @@
 #!/bin/bash
 
+# This is a script that prints hello world
+
 echo "Hello World"
 
-# This is a script that prints hello world
 
 : '
 This is a
