@@ -14,7 +14,7 @@ echo $(( num1 % num2 ))
 echo "========With expr========"
 echo $(expr $num1 + $num2)
 echo $(expr $num1 - $num2)
-echo $(expr $num1 \* $num2)  #add an escape before multiplication operand
+echo $(expr $num1 \* $num2)  #add escape character before multiplication operand
 echo $(expr $num1 / $num2)
 echo $(expr $num1 % $num2)
 
